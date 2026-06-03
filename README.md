@@ -1,7 +1,8 @@
 <div align="center">
-  <p>Número de visitantes</p>
-  <img src="https://profile-counter.glitch.me/Esneyders-24/count.svg"/>
-  <br/>
+  <h3> Número de visitantes</h3>
+
+  <img src="https://komarev.com/ghpvc/?username=Esneyders-24&label=VISITANTES&color=0e75b6&style=for-the-badge" />
+
 </div>
 <div>
   
