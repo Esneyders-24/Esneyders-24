@@ -1,8 +1,7 @@
 <div align="center">
   <h3> Número de visitantes</h3>
 
-  <img src="https://komarev.com/ghpvc/?username=Esneyders-24&label=VISITANTES&color=0e75b6&style=for-the-badge" />
-
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=Esneyders-24.Esneyders-24&left_text=Visitors" />
 </div>
 <div>
   
