@@ -1,6 +1,6 @@
 <div align="center">
   <h3> Número de visitantes</h3>
-  <img src="https://count.getloli.com/@Esneyders-24?name=Esneyders-24&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
+    <img src="https://profile-counter.glitch.me/Esneyders-24/count.svg" />
 </div>
 <div>
   
