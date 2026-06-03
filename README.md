@@ -1,6 +1,6 @@
 <div align="center">
   <h3> Número de visitantes</h3>
-   [Profile Views](https://komarev.com/ghpvc/?username=Esneyders-24&label=VISITANTES&color=blueviolet&style=for-the-badge)
+   <img src="https://count.getloli.com/@Esneyders-24?name=Esneyders-24&theme=asoul&padding=7&offset=0&align=center&scale=1&darkmode=auto" />
 </div>
 <div>
   
