@@ -1,6 +1,6 @@
 <div align="center">
   <h3> Número de visitantes</h3>
-   <img src="https://count.getloli.com/@Esneyders-24?name=Esneyders-24&theme=asoul&padding=7&offset=0&align=center&scale=1&darkmode=auto" />
+   <img src="https://komarev.com/ghpvc/?username=Esneyders-24&label=VISITANTES&style=for-the-badge" />
 </div>
 <div>
   
