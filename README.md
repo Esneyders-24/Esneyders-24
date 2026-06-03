@@ -1,7 +1,6 @@
 <div align="center">
   <h3> Número de visitantes</h3>
-
- <img src="https://visitor-badge.laobi.icu/badge?page_id=Esneyders-24.Esneyders-24&left_text=Visitors" />
+  ![Visitor Count](https://komarev.com/ghpvc/?username=Esneyders-24&color=brightgreen)
 </div>
 <div>
   
