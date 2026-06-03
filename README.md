@@ -1,3 +1,18 @@
+<div align="center">
+  <p>Número de visitantes</p>
+  <img src="https://profile-counter.glitch.me/TU_USUARIO/count.svg"/>
+  <br/>
+</div>
+<div>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
+
+
+
 
 # 💫 About Me:
 Soy estudiante de Desarrollo de Software con interés en la creación de aplicaciones web, móviles y soluciones tecnológicas innovadoras. Me apasiona la programación y el aprendizaje continuo, fortaleciendo mis habilidades en tecnologías como Java, React, PHP, C#, SQL Server, JavaScript, Swift para iOS y Android Studio para el desarrollo de aplicaciones móviles. Disfruto enfrentar nuevos retos, trabajar en equipo y desarrollar proyectos que me permitan aplicar buenas prácticas de programación, ampliar mis conocimientos y adquirir experiencia en el desarrollo de software moderno.<br>
